@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/otomazra/Social-proof-section)
+- Live Site URL: [Add live site URL here](https://otomazra.github.io/Social-proof-section/)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Otar Mazrashvili](https://github.com/otomazra)
+- Frontend Mentor - [@OtoMazra](https://www.frontendmentor.io/profile/otomazra)
