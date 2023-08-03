@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/otomazra/Social-proof-section)
-- Live Site URL: [Add live site URL here](https://otomazra.github.io/Social-proof-section/)
+- Solution URL: [Github solution](https://github.com/otomazra/Social-proof-section)
+- Live Site URL: [Github live site](https://otomazra.github.io/Social-proof-section/)
 
 ## My process
 
